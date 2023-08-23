@@ -5,7 +5,7 @@ My build versions:
 ## Installation
 
 ```bash
-  npm install react-native-accordion-list-reanimated
+npm install react-native-accordion-list-reanimated
 ```
 
 ## Doc
